@@ -1,6 +1,7 @@
 # De Morgan's Laws
 
 !(A || B) is equivalent to !A && !B
+
 !(A && B) is equivalent to !A || !B
 
 # Language Origins
@@ -25,7 +26,6 @@
 * 1995: Javascript released with Netscape Navigator
 * 1995: Ruby 0.95 released
 * 1996: Java released with write once run everywhere promise
-* 
 
 ## 2000s
 
