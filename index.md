@@ -1,8 +1,8 @@
 # De Morgan's Laws
 
-!(A || B) is equivalent to !A && !B
+`!(A || B)` is equivalent to `!A && !B`
 
-!(A && B) is equivalent to !A || !B
+`!(A && B)` is equivalent to `!A || !B`
 
 # Language Origins
 
