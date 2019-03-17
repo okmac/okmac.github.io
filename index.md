@@ -1,3 +1,8 @@
+# De Morgan's Laws
+
+!(A || B) is equivalent to !A && !B
+!(A && B) is equivalent to !A || !B
+
 # Language Origins
 
 ## 1950s
@@ -15,7 +20,7 @@
 
 ## 1990s
 
-* 1991: Python, written by Guido van Rossum
+* <p title="and now for something completely different">1991: Python, written by Guido van Rossum</p>
 * 1991: James Gosling and team starts developing Java
 * 1995: Javascript released with Netscape Navigator
 * 1995: Ruby 0.95 released
@@ -38,5 +43,3 @@
 * 2017: C++17 
 * 2018: C18 standard
 * 2018: Ruby 2.6
-
-<p title="Sample Value">testing...</p>
